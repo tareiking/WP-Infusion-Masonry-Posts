@@ -4,7 +4,14 @@
 }
 
 .latest-articles h3 {
+	line-height: 2;
+	text-transform: uppercase;
 	color: white;
+}
+
+#masonry-loop {
+	overflow: hidden;
+	margin-bottom: 40px;
 }
 
 #masonry-loop img {
